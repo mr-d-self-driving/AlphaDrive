@@ -1,9 +1,8 @@
 <div align ="center">
 
-<h2>🌌AlphaDrive: Unleashing the Power of VLMs in Autonomous
+<h2>🌌 AlphaDrive: Unleashing the Power of VLMs in Autonomous
 
 Driving via Reinforcement Learning and Reasoning</h2>
-
 
 [Bo Jiang](https://scholar.google.com/citations?user=UlDxGP0AAAAJ&hl=zh-CN)<sup>1</sup>, [Shaoyu Chen](https://scholar.google.com/citations?user=PIeNN2gAAAAJ&hl=en&oi=sra)<sup>1,2</sup>, [Qian Zhang](https://scholar.google.com/citations?user=pCY-bikAAAAJ&hl=zh-CN)<sup>2</sup>, [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/)<sup>1</sup>, [Xinggang Wang](https://xwcv.github.io/)<sup>1,📧</sup>
 
@@ -17,11 +16,11 @@ Driving via Reinforcement Learning and Reasoning</h2>
 
 </div>
 
-
 <div align="center">
 <img src="./assets/arch.png">
 </div>
 
+https://github.com/user-attachments/assets/335939e0-a3f2-4d08-bfaf-ca405419488c
 
 
 ## ✨ Highlights
