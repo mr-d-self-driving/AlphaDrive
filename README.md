@@ -11,7 +11,7 @@ Driving via Reinforcement Learning and Reasoning</h2>
 <sup>📧</sup> corresponding author
 
 
-[![arxiv paper](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/abs/2410.22313)
+[![arxiv paper](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/abs/2503.07608)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 </div>
@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/335939e0-a3f2-4d08-bfaf-ca405419488c
 
 ## 📋 News
 
-`[2025-3-11]:` AlphaDrive [arXiv](https://arxiv.org/abs/2410.22313) paper released. Code are coming soon. Please stay tuned! ☕️
+`[2025-3-11]:` AlphaDrive [arXiv](https://arxiv.org/abs/2503.07608) paper released. Code are coming soon. Please stay tuned! ☕️
 
 
 ## 📊 Qualitative Results
@@ -53,14 +53,14 @@ If you find AlphaDrive useful in your research or applications, please consider 
 
 
 ```bibtex
-@article{jiang2024senna,
-      title={Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving}, 
-      author={Bo Jiang and Shaoyu Chen and Bencheng Liao and Xingyu Zhang and Wei Yin and Qian Zhang and Chang Huang and Wenyu Liu and Xinggang Wang},
-      year={2024},
-      eprint={2410.22313},
+@article{jiang2025alphadrive,
+      title={AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning}, 
+      author={Bo Jiang and Shaoyu Chen and Qian Zhang and Wenyu Liu and Xinggang Wang},
+      year={2025},
+      eprint={2503.07608},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2410.22313}, 
+      url={https://arxiv.org/abs/2503.07608}, 
 }
 ```
 
