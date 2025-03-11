@@ -20,7 +20,7 @@ Driving via Reinforcement Learning and Reasoning</h2>
 <img src="./assets/arch.png">
 </div>
 
-https://github.com/user-attachments/assets/335939e0-a3f2-4d08-bfaf-ca405419488c
+https://github.com/user-attachments/assets/71695178-90ca-4f5c-acc2-ab2e13c63e43
 
 
 ## ✨ Highlights
