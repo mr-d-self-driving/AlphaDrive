@@ -32,11 +32,43 @@ https://github.com/user-attachments/assets/71695178-90ca-4f5c-acc2-ab2e13c63e43
 
 ## 📋 News
 
+`[2025-3-26]:` We have released the training and evaluation scripts of AlphaDrive.
+
 `[2025-3-11]:` AlphaDrive [arXiv](https://arxiv.org/abs/2503.07608) paper released. Code are coming soon. Please stay tuned! ☕️
 
 
-## 📊 Qualitative Results
+## 🎮 Getting Started
+### Installtion
+```shell
+git clone git@github.com:hustvl/AlphaDrive.git
+conda create -n alphadrive python=3.11 -y
+conda activate alphadrive
+sh setup.sh
+```
 
+### Data Preparation
+We provide the [prompt templates](https://github.com/hustvl/AlphaDrive/blob/main/data_tools/prompt_hub.py) used in AlphaDrive for training and generating planning reasoning data, and an example QA is provided in [example.json](https://github.com/hustvl/AlphaDrive/blob/main/data_tools/example.json).
+
+
+### Training
+For Supervised Fine-tuning Phase:
+```shell
+sh train_tools/run_train_sft.sh
+```
+
+For Reinforcement Learning Phase:
+```shell
+sh train_tools/run_train_grpo.sh
+```
+
+### Evaluation
+You can evaluate the meta-action planning accuracy using the script below.
+```shell
+sh eval_tools/qwen2vl_plan_cmd_eval.sh
+```
+
+
+## 📊 Qualitative Results
 
 
 <div align="center">
